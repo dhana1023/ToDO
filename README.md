@@ -14,4 +14,4 @@ ToDo Application using HTML, CSS, JS
 
 Used Font: https://kit.fontawesome.com/a076d05399.js 
 
-Bakground Image: https://www.pexels.com/photo/blank-book-pages-desk-green-531844/
+Background Image: https://www.pexels.com/photo/blank-book-pages-desk-green-531844/
